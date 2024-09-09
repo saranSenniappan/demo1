@@ -1,0 +1,3 @@
+created a account in github.
+Right top click the "+" icon and create new repository.
+if you have files to upload you can choose upload existing file or create a new file.
