@@ -1,3 +1,9 @@
 created a account in github.
 Right top click the "+" icon and create new repository.
 if you have files to upload you can choose upload existing file or create a new file.
+install the git in your machine and go to cmd and type git you will get the some data if so you installed git in your machine.
+you have to store your git user name and email in your local machine for that in the cmd use the following code
+git config --global user.name "saranSenniappan"
+git config --global user.email "saran.senniappan@aspiresys.com"
+once you comeplete this create one folder in local and open it in the vs code.
+click new terminal and enter git clone "url".
