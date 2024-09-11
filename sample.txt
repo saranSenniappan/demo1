@@ -17,3 +17,5 @@ Note: while pushing the new change if you face any issue follow the bellow steps
    2. git merge origin/main
    3. git push origin main
 If you or someone made any changes in any of your project file you have to update the changes in ib your local so for that you have to use "pull" command in your local terminal like "git pull".
+local repo to github:
+  If you created a local folder and you want to add it in the git.
