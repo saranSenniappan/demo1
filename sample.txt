@@ -29,3 +29,9 @@ local repo to github:
     7. Next you need to add the origin url so that you can push your new changes. for that 
        "git remote add origin "url""
     8. once you added the origin url you can push your work like "git push origin main".
+New branch creation:
+  1. In the github click the main and create new branch
+  2. In VS code go to terminal and enter "git pull". Since we create a new branch in github we want that change in local.
+  3. In terminal enter "git branch -a" you will get the list of branch which is in your current repo.
+  4. If you want to move your new branch in terminal enter "git checkout "newbranchname"".
+  5. once you move to your new branch you can do any modification or creation and follow the same push steps like (add -> commit -> push).
