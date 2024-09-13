@@ -43,4 +43,8 @@ Pull request:
   2. In github you can see the "pull request" option click that and create a pull request and specify the branch which you want to merge.
   3. once you create a req your manager or someother person who is having the access to merge they will merge it.
 Conflicts:
-  1. 
+  1. Think you have one repo under that you have 2 or many branch.
+  2. if you modified the same line of code in all branch and you want to merge it in the main branch.
+  3. 1st merge from branch1 if you try to merge it in the main it will work since it is 1st merge.
+  4. agian if you want to merge the same line of code in different branch this time it will through an error like you have conflict try 
+     to resolve and merge it in the main branch.
