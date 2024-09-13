@@ -38,3 +38,9 @@ New branch creation:
 Merge branch in main:
   1. If you want to merge your branch to your main branch, in terminal enter "git merge "branch name you want to merge"".
   2. Once you merge it in terminal enter "git push origin main".
+Pull request:
+  1. If you have worked in your repo but you want to merge it with your main repo but you don't have access to merge then we can use merge option.
+  2. In github you can see the "pull request" option click that and create a pull request and specify the branch which you want to merge.
+  3. once you create a req your manager or someother person who is having the access to merge they will merge it.
+Conflicts:
+  1. 
